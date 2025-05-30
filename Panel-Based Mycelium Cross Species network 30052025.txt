@@ -1,0 +1,13 @@
+Panel-Based Mycelium Cross Species network V0.1 - Rough draft/idea
+
+Here is an alternative idea to my 3D Mycelium network which relies on a glass panel design in order to allow for cross-species communication between Mycelium.
+
+First, the limitations of this design mean that the mycelium structure will be limited in space as there is only a thin area for it to grow.
+
+My design is as follows, there is a layer of the mycelium, a layer of a nutrient mesh to feed the mycelium and a layer of electrodes in order to communicate with and
+gather information from the mycelium, each panel is this way, however, if you had two panels you could use two different species of mycelium, they never have to directly compete for resources as they have their own nutrient mesh and space to grow, but electrodes from the first panel are inserted also into the second and vice versa, this allows
+for cross species communication and is only limited by how much space you have.
+
+Since there are so many species of Fungi, you could theoretically connect every single species of Fungi via their mycelium alone in this design.
+
+I will include an example image below with my incredible drawing skills, note that although the perspective is off because I'm totally perfect at drawing, each layer of each panel should be the same size.
